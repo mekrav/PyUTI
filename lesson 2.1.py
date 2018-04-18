@@ -1,3 +1,4 @@
+#простое условие
 a=bool(int(input()))
 if a:
     print('True')
